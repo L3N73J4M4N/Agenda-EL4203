@@ -25,4 +25,4 @@ Se generaron contactos aleatorios utilizando la librería Faker para evaluar el 
 2. También, puede clonar el repositorio y ejecutar el archivo `Interface` en Python 3.X.
 
 ## Documentación
-Los documentos `pdf` disponibles en el repositorio le pueden brindar información importante sobre cómo usar el programa (`Instrucciones.pdf`) y cómo se implementó (`Reporte.pdf`). 
+Los documentos `pdf` disponibles en el repositorio le pueden brindar información importante sobre cómo usar el programa (`Instrucciones.pdf`) y cómo se implementó (`Reporte.pdf`). A su vez, el archivo `Estadísticas.ipynb` muestra cómo se obtuvieron las estadísticas de rendimiento mencionadas.
